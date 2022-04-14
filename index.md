@@ -36,6 +36,7 @@
   - Linux
     - Ubuntu
     - CentOS
+    - Kali
   - Windows
   - MAC
 
