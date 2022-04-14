@@ -12,7 +12,7 @@
 - E-mail : 
 - GitHub : [github.com/WishedSea](https://www.github.com/WishedSea)
 ```
-보안과 개발을 공부하면서, 공부에는 끝이 없다는 것을 몸소 체험하고 있습니다.
+보안과 개발을 공부하면서, 끊임없이 배워가고 있습니다.
 ```
 
 ## 경력
