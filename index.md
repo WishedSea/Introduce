@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# 이력서
 
-You can use the [editor on GitHub](https://github.com/WishedSea/Introduce/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+작성일자 : 2022/04/14
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 소개
 
-### Markdown
+![IMAGE]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- 이름 : 김학범
+- 군필 여부 : 육군 복무중 (~ 2022. 09. 01)
+- 취미 : **코딩**, 사격, 여행
+- E-mail : 
+- GitHub : [github.com/WishedSea](https://www.github.com/WishedSea)
+```
+보안과 개발을 공부하면서, 공부에는 끝이 없다는 것을 몸소 체험하고 있습니다.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 경력
+- 신입
 
-### Jekyll Themes
+## 학력
+- 서울호서직업전문학교 사이버해킹보안학과 졸업 (2017 ~ 2019)
+- 전북 익산 성일고등학교 졸업 (2014 ~ 2016)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WishedSea/Introduce/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 사용 기술
+- Programming Language
+  - Python
+  - Java
+  - C
+  - ASAMBLY
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- OS
+  - Linux
+    - Ubuntu
+    - CentOS
+
+
+- DB
+  - MySQL
+  - ORACLE
+
+## 보유 자격증
+- 정보처리기사 (2020 취득)
+- 네트워크관리사 2급 (2017 취득)
+
+## TODO
+현재 취득하려고 목표를 둔 자격증이며 추후 Backend 개발, 보안과 관련된 자격증들을 취득할 예정입니다.
+- 리눅스마스터 1급 (현재 1차 합격)
+- 정보보안기사
+- 1일 1코딩연습 or 보안공부
