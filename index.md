@@ -1,18 +1,14 @@
 # 이력서
 
-작성일자 : 2022/04/14
-
-## 소개
-
 ![IMAGE]()
 
 - 이름 : 김학범
 - 군필 여부 : 육군 복무중 (~ 2022. 09. 01)
 - 취미 : **코딩**, 사격, 여행
-- E-mail : [wished0sea@gmail.com](wished0sesa@gmail.com)
+- E-mail : wished0sea@gmail.com
 - GitHub : [github.com/WishedSea](https://www.github.com/WishedSea)
 ```
-보안과 개발을 공부하면서, 끊임없이 배워가고 있습니다.
+보안과 개발을 공부하면서, 끊임없이 배워가는 중입니다.
 ```
 
 ## 경력
