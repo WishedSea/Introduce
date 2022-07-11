@@ -25,14 +25,14 @@
 - Programming Language
   - Python
   - Java
-  - C
-  - ASAMBLY
+  - C, C++
 
 - OS
   - Linux
     - Ubuntu
     - CentOS
     - Kali
+    - Android
   - Windows
   - MAC
 
@@ -40,17 +40,22 @@
   - MySQL
   - ORACLE
 
+- 정보보호법
+  - 개인정보보호법 등 보안 관련 법률 학습
+
 - Forensic
-  - DFAS
+  - Argos DFAS
   - UFAD
   - EnCase (Encace v7 사용경험)
   - FTK (Forensic ToolKit 사용경험)
+  - HIFOC(Hoseo Information FOrensic Center) 보유 장비 관리 및 운용절차 가이드 작성
 
 - Network
   - Cisco (Cisco Packet Tracer 사용경험)
 
 ## 보유 자격증
 - 정보처리기사 (2020 취득)
+- 리눅스마스터 1급 (1차합격, 2022.03 기준)
 - 네트워크관리사 2급 (2017 취득)
 
 ## TODO
@@ -59,3 +64,4 @@
 - 정보보안기사
 - AI, 빅데이터, 블록체인 공부
 - 1일 1코딩연습 or 보안공부
+  - GitHub에 미기재 되어도 공부는 계속 진행중입니다.
