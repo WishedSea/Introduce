@@ -23,9 +23,9 @@
 
 ## 사용 기술
 - Programming Language
-  - Python
+  - Python (DRF)
   - Java
-  - C, C++
+  - C, C++, C#(.Net Framework)
 
 - OS
   - Linux
